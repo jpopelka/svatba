@@ -1,9 +1,9 @@
 {
-  "name": "julianaeaecio",
-  "title": "Juliana & Aecio",
-  "version": "3.3.7+1",
-  "homepage": "http://github.com/aecio/julianaeaecio",
-  "author": "Aécio Santos",
+  "name": "mvsvatba",
+  "title": "Marťa & Vašek",
+  "version": "0.0.1",
+  "homepage": "http://github.com/vpavlin/wedding",
+  "author": "Vašek Pavlín",
   "license": {
     "type": "MIT",
     "url": "https://github.com/aecio/julianaeaecio/blob/gh-pages/LICENSE"
@@ -18,11 +18,12 @@
     "gulp-less": "^3.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.4",
+    "gulp-connect": "*",
     "jquery": "^1.11.3",
     "photoset-grid": "https://github.com/stylehatch/photoset-grid/tarball/master"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aecio/julianaeaecio.git"
+    "url": "https://github.com/vpavlin/wedding.git"
   }
 }
