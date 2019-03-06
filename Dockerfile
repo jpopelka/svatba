@@ -8,10 +8,8 @@ RUN /usr/bin/npm install -g bower
 
 CMD ["gulp", "connect"]
 
-COPY package.json gulpfile.js .
+ADD . /opt
 
 RUN npm install
-
-ADD . /opt
 
 RUN gulp
