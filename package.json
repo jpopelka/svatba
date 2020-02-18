@@ -1,9 +1,9 @@
 {
-  "name": "mvsvatba",
-  "title": "Marťa & Vašek",
+  "name": "pjsvatba",
+  "title": "Peťa & Jirka",
   "version": "0.0.1",
-  "homepage": "http://github.com/vpavlin/wedding",
-  "author": "Vašek Pavlín",
+  "homepage": "http://github.com/jpopelka/svatba",
+  "author": "Jiří Popelka",
   "license": {
     "type": "MIT",
     "url": "https://github.com/aecio/julianaeaecio/blob/gh-pages/LICENSE"
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vpavlin/wedding.git"
+    "url": "https://github.com/jpopelka/svatba.git"
   }
 }
