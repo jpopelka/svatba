@@ -182,8 +182,8 @@ a:focus {
   width: 100%;
   height: auto;
   padding: 100px 0;
-  text-align: center;
-  color: white;
+  text-align: left;
+  color: black;
   background: url(../img/we.jpg) no-repeat top center scroll;
   background-color: black;
   -webkit-background-size: cover;
@@ -221,10 +221,10 @@ a:focus {
   height: 70px;
   margin-top: 15px;
   padding: 7px 16px;
-  border: 2px solid white;
+  border: 2px solid black;
   border-radius: 100% !important;
   font-size: 40px;
-  color: white;
+  color: black;
   background: transparent;
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
@@ -287,7 +287,7 @@ a:focus {
 .savethedate-section {
   width: 100%;
   padding: 50px 0;
-  color: #000;
+  color: white;
   background: url(../img/panorama.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
